@@ -1,4 +1,4 @@
-#blockchain-python
+blockchain-python
 
 Création d'une blockchain minimaliste en Python
 
@@ -10,4 +10,4 @@ Création d'une blockchain minimaliste en Python
 - Blockchain
 ```
 
-Vous pouvez changer le nombre de transaction par blocks à la ligne 118. 
+Vous pouvez changer le nombre de transaction par block à la ligne 118. 
